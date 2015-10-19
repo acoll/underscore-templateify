@@ -1,4 +1,5 @@
-# A Browserify Transform for Underscore Templates
+# underscore-templateify
+A Browserify Transform for Underscore Templates
 
 **underscore-templateify** lets you use underscore templates with [browserify][]:
 
